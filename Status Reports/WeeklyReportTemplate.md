@@ -1,4 +1,4 @@
-<p align=center> PROJECT NAME <br>
+<p align=center> Atom Syntax Highlighting <br>
   STATUS REPORT <br>
   DATE
   
