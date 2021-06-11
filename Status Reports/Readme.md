@@ -8,7 +8,7 @@ Status Report Template: https://github.com/openmainframeproject-internship/resou
 | Document | Description | Document Name |
 |---|---|---|
 | Project Plan | Overall week by week plan of milestones | |
-| Week 1 Status Report | Work completed throughout week 1 | | 
+| Week 1 Status Report | Work completed throughout week 1 | https://github.com/openmainframeproject-internship/ATOM-Syntax-Highlighting/blob/master/Status%20Reports/2021/Week1-11June2021.md | 
 | Week 2 Status Report | | |
 | Week 3 Status Report | | |
 | Week 4 Status Report | | |
