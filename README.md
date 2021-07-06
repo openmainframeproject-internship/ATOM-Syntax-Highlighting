@@ -14,4 +14,4 @@ a better understanding of the problems you encountered during the developmemnt o
 
 ## Project Team
 - *Walter Church*  - *IBM* - Mentor
-- *Krushnal Patel* - *University* - Mentee
+- *Krushnal Patel* - *Delhi Technological University* - Mentee
