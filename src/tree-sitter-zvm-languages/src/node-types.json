@@ -1,0 +1,26 @@
+[
+  {
+    "type": "line_too_long_rule",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "source_file",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "line_too_long_rule",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": ".*(?<=.{72})(([^0-9 \\r\\n]+)|([0-9 \\r\\n]{8}.+))",
+    "named": false
+  }
+]
