@@ -1,6 +1,6 @@
 [submodule "src/atompkg-language-zvm-asm"]
 	path = src/atompkg-language-zvm-asm
-	url = https://github.com/openmainframeproject/atompkg-language-zvm-asm
+	url = https://github.com/openmainframeproject/atompkg-languages-zvm
 [submodule "src/atompkg-language-zvm-rexx"]
 	path = src/atompkg-language-zvm-rexx
 	url = https://github.com/openmainframeproject/atompkg-language-zvm-rexx
