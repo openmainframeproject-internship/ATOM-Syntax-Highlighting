@@ -14,6 +14,8 @@ eg. for syntax like `('hello')`, text mate may use regex `'\\(\\'hello\\'\\)'`. 
 ```bash
 npm i --save-dev tree-sitter-cli
 ```
+Or download the source file for your operating system: https://github.com/tree-sitter/tree-sitter/releases/tag/v0.20.0
+
 3. Install nan
 ```bash
 npm i nan
